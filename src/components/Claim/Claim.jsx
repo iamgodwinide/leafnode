@@ -55,6 +55,10 @@ const Claim = ({ accounts }) => {
 
         const proof = merkleTree.getHexProof(leafNodes[nodeIndex]).map(item => item.replace(/\n/g, ""));
 
+        console.log("Proof----", proof);
+        console.log("Address----", balances[nodeIndex].address);
+        console.log("Amount----", balances[nodeIndex].amount);
+
         if (window.ethereum) {
             const provider = new ethers.providers.Web3Provider(window.ethereum);
             const signer = provider.getSigner();
@@ -65,7 +69,6 @@ const Claim = ({ accounts }) => {
             );
             try {
                 const response = await contract.claimTokens(
-                    balances[nodeIndex].address,
                     balances[nodeIndex].amount,
                     proof
                 );
