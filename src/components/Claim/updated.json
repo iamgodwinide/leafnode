@@ -1,0 +1,2053 @@
+[
+    {
+        "address": "0x4976a4a02f38326660d17bf34b431dc6e2eb2327",
+        "amountInEth": 0.52335709,
+        "amountInTokens": 5582475.626666666,
+        "claimed": false,
+        "index": 1
+    },
+    {
+        "address": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "amountInEth": 0,
+        "amountInTokens": 0,
+        "claimed": false,
+        "index": 2
+    },
+    {
+        "address": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "amountInEth": 0,
+        "amountInTokens": 0,
+        "claimed": false,
+        "index": 3
+    },
+    {
+        "address": "0xf2433fa19479382e19e7735280204d09d3fc8525",
+        "amountInEth": 0,
+        "amountInTokens": 0,
+        "claimed": false,
+        "index": 4
+    },
+    {
+        "address": "0x68e80b3d6dbbbede4653002e50b0ce4b13bbb41b",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 5
+    },
+    {
+        "address": "0x8c733e7644db8fe9084c5cb482431da689569f82",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 6
+    },
+    {
+        "address": "0x82515cd6a2315117d664905a12516b577f30546d",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 7
+    },
+    {
+        "address": "0x6073b187357c6b2970da8812ece1959b3cce487d",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 8
+    },
+    {
+        "address": "0xa6589ed95fcf0c50e82e1d3e5ae1dc2d04837af4",
+        "amountInEth": 0.348890260594186,
+        "amountInTokens": 3721496.1130046505,
+        "claimed": false,
+        "index": 9
+    },
+    {
+        "address": "0x43caaafa247edce77a0e6281c3690de7695ffe2a",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 10
+    },
+    {
+        "address": "0x92c9f2c60cf07e1ee667a25e15c2be66b2121b70",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 11
+    },
+    {
+        "address": "0xb5b8457b2e81eef591776f16117e12b3477a59c9",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 12
+    },
+    {
+        "address": "0xb9041e7b643a40b36f9cf211b20f143c90df7622",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 13
+    },
+    {
+        "address": "0xe30aaa926a10957509c924aa3fedc157ddaa0cfb",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 14
+    },
+    {
+        "address": "0x6a43408ba102683a4fc6671eb1e4ce13fe0b135a",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 15
+    },
+    {
+        "address": "0xa5e9155ca5f6b2686689503d700962f00e668f08",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 16
+    },
+    {
+        "address": "0x992aa84a1b0e049df5f93739bcb32d1c2cf926c7",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 17
+    },
+    {
+        "address": "0xbec62caebd97b987684fb538f6549013f9f1b910",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 18
+    },
+    {
+        "address": "0x1d0b0a761e8e97eabebe011b3b4252ddde4a53f0",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 19
+    },
+    {
+        "address": "0x181f8c52da7dc439df66b93869829c6bc0b6bf2e",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 20
+    },
+    {
+        "address": "0xec4d4c3655d52c990a03b6aabce247de5f184820",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 21
+    },
+    {
+        "address": "0x91c61c4d8ebf0e2b60d98a67c11fbd0ca2f621e7",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 22
+    },
+    {
+        "address": "0x7707635aa560571298a65a9c0a88492c62bdc94d",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 23
+    },
+    {
+        "address": "0xc490bc9e50933600a2a7dc213e69851d8d56098e",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 24
+    },
+    {
+        "address": "0xfc2d2cca7b97658cb35b202715b3b02295bfa4ab",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 25
+    },
+    {
+        "address": "0x596c61424ab75f45f41663ba4784cb106bec76e7",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 26
+    },
+    {
+        "address": "0x550e3430c7ff4701c082f5b0902f11e728324897",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 27
+    },
+    {
+        "address": "0x6755cbfc0baf19feb1d78dda12ff4e3411c095df",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 28
+    },
+    {
+        "address": "0x7e209335b0081ecbbe70a7af0e51ddeb1f7a75bd",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 29
+    },
+    {
+        "address": "0x9a32e07bef5e4e7bf16ad984f46146c40f9d2dbe",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 30
+    },
+    {
+        "address": "0xc0a308966a7990e98a54d33b0253d584076eab77",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 31
+    },
+    {
+        "address": "0x5aed53d31810559c10eb2dccaada073af499adab",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 32
+    },
+    {
+        "address": "0xa91f2c2aecee92caa7b4a3635d9350ce677e3dd8",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 33
+    },
+    {
+        "address": "0x532e819d9b2521a3c38e11428583dea7d7c7b066",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 34
+    },
+    {
+        "address": "0x67798d3325eb4bf4d2ae8d1ceb274164f29b10ee",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 35
+    },
+    {
+        "address": "0xbcf80192b98f1a0a6ea058bfd8a6be8551f81ef5",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 36
+    },
+    {
+        "address": "0x87b2dc356091c794490cbbf661384c7e6343ea61",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 37
+    },
+    {
+        "address": "0xbbe32b37216b7df71f0dbf7c18c02d9662b16412",
+        "amountInEth": 0.4,
+        "amountInTokens": 4266666.666666667,
+        "claimed": false,
+        "index": 38
+    },
+    {
+        "address": "0x500249f6b92f4e56acd44d70c8ff7271abacbbc1",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 39
+    },
+    {
+        "address": "0x97013995b4866f7279e2bf6dbd7677529b21a762",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 40
+    },
+    {
+        "address": "0xee94fcf4e811f98568da547098e3f6e8ef066666",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 41
+    },
+    {
+        "address": "0xcaa26cc50fbe9d13ba2f2b97b567cf2da165ba7f",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 42
+    },
+    {
+        "address": "0xecd1f3e99caa4cdbf174ad12ce79d89a8ba54fca",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 43
+    },
+    {
+        "address": "0x24550886801e75f1de638e0e3e9632c1509a2f84",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 44
+    },
+    {
+        "address": "0xd24b891825af7a1c4ae730db222a6d6ada9ec275",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 45
+    },
+    {
+        "address": "0xd54c561c323bf404b2653a419ed97d1c5a8698e6",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 46
+    },
+    {
+        "address": "0x0a61438cd4f34405fafa25e4da7412c1d2d7ff6e",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 47
+    },
+    {
+        "address": "0x503100535cf40b4a9e544e7966bd0d52bedf602d",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 48
+    },
+    {
+        "address": "0xebbaa6a146651430d45702c2e4db47bfc9efce36",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 49
+    },
+    {
+        "address": "0x3b25c251b9d05e227e24b575861143cfad44f45a",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 50
+    },
+    {
+        "address": "0x671105ff4bfd5d48a9f1b27cf09b265b796e5229",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 51
+    },
+    {
+        "address": "0x45750b7c20566cd213f23f9fef1a609544db1fd1",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 52
+    },
+    {
+        "address": "0xd6811895a8f493f39afdf98539e0877aa6ccd48e",
+        "amountInEth": 0.13,
+        "amountInTokens": 1386666.6666666667,
+        "claimed": false,
+        "index": 53
+    },
+    {
+        "address": "0xb61dde3a41c8fca878ee22fa034933270e1be9d6",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 54
+    },
+    {
+        "address": "0xa5308de0fb75b14412b8de5178d72a98d785363a",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 55
+    },
+    {
+        "address": "0x0026c7385b0d3331dd97150eb0ddd096b47f6600",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 56
+    },
+    {
+        "address": "0x00bd481750916a3102253914c850d3457913c300",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 57
+    },
+    {
+        "address": "0x125c1823024befccf795ad14d7d68b47b2970f80",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 58
+    },
+    {
+        "address": "0xb8004fde4086d4b403c2d5c3cebb52b162ed6a3c",
+        "amountInEth": 0.4,
+        "amountInTokens": 4266666.666666667,
+        "claimed": false,
+        "index": 59
+    },
+    {
+        "address": "0x917a4e769a20e51abff4f709575603fcbfcddbd6",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 60
+    },
+    {
+        "address": "0x32d8bd3caaee7efbb387647762390ff417750fc3",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 61
+    },
+    {
+        "address": "0x1e4d89536f04721a65786eea269c4d7a5438c1a0",
+        "amountInEth": 0.035,
+        "amountInTokens": 373333.3333333334,
+        "claimed": false,
+        "index": 62
+    },
+    {
+        "address": "0x5f5909b6791ab1cb8b5f81361f81760c3afd5e52",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 63
+    },
+    {
+        "address": "0x26253c147381a53e060ca42e06bdc550d651ec24",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 64
+    },
+    {
+        "address": "0x52d40447ba9e74fe1032f426c31d2b2a19dd80e5",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 65
+    },
+    {
+        "address": "0x0a49b9033d56f90ecfd0e2e0fb08ded8692f04e9",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 66
+    },
+    {
+        "address": "0xc4e12d017f7d393d75234151214e88dcc06b4443",
+        "amountInEth": 0.18,
+        "amountInTokens": 1919999.9999999998,
+        "claimed": false,
+        "index": 67
+    },
+    {
+        "address": "0x86fff6af1614bc18c72840ff8e6c033dd43bed8a",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 68
+    },
+    {
+        "address": "0xde5517b483ade936ccc1c88814662f32c3627d7b",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 69
+    },
+    {
+        "address": "0x928b1e43f57c7b77ebfb696b5d7c0823bed11a17",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 70
+    },
+    {
+        "address": "0xe1519ce6be3b22a7e0b1e12a6633d5bb1a545eb9",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 71
+    },
+    {
+        "address": "0xb15e349e1ebec5c29cc9d605fea922d108216aaa",
+        "amountInEth": 0.36,
+        "amountInTokens": 3839999.9999999995,
+        "claimed": false,
+        "index": 72
+    },
+    {
+        "address": "0x811b23e4ab2b4beae94db8a7ff143c417af3cd9c",
+        "amountInEth": 0.12,
+        "amountInTokens": 1280000,
+        "claimed": false,
+        "index": 73
+    },
+    {
+        "address": "0xfe64625eccaa0aea3a3fe73428e278d8a3c8aff0",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 74
+    },
+    {
+        "address": "0x4bfcaf53e08396b261b4ebd3a8739c62f92aad39",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 75
+    },
+    {
+        "address": "0x4aa7e354565f1cf936c1ba6a3fa0072e126a6d4b",
+        "amountInEth": 0.35,
+        "amountInTokens": 3733333.333333333,
+        "claimed": false,
+        "index": 76
+    },
+    {
+        "address": "0x9ee498513b382cce8be6586f1eb617799ef27073",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 77
+    },
+    {
+        "address": "0x6d5aa13aa12006016b825e138271b464370fb4e5",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 78
+    },
+    {
+        "address": "0x2360db153c21f313b7b58ed286008404930d55fc",
+        "amountInEth": 0.05,
+        "amountInTokens": 533333.3333333334,
+        "claimed": false,
+        "index": 79
+    },
+    {
+        "address": "0xec993ef3f452ac043e1b2d43f53915028da3ab7f",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 80
+    },
+    {
+        "address": "0xa1c070c1dd8286647f4077d0870e7fb880fbea4b",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 81
+    },
+    {
+        "address": "0x22a3f3179af6275dadc8cd01c8aa29285d025f8a",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 82
+    },
+    {
+        "address": "0x101076683ce9e6651d64a6ea7344dce702e1cb43",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 83
+    },
+    {
+        "address": "0x89af8e24f150d2c36a52114d51a3bc0b17ea517f",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 84
+    },
+    {
+        "address": "0xb2aadf6bfc0a5213acb9c279394b46f50aea65a3",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 85
+    },
+    {
+        "address": "0x620aa9c8afda1dbac8a4e0ef59c05c2848287746",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 86
+    },
+    {
+        "address": "0x97a19880cc0162abe19f3746a31e28a628821d3a",
+        "amountInEth": 0.27,
+        "amountInTokens": 2880000,
+        "claimed": false,
+        "index": 87
+    },
+    {
+        "address": "0xb2ee06d00e79d360e0408cf7eb67699265365ff1",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 88
+    },
+    {
+        "address": "0x18b1a99772ca0f9e8d5a9a834010635768b98090",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 89
+    },
+    {
+        "address": "0xc9de1ecec01e5bad9b03ae3b272fa3ca5447150d",
+        "amountInEth": 0.18,
+        "amountInTokens": 1919999.9999999998,
+        "claimed": false,
+        "index": 90
+    },
+    {
+        "address": "0xb6bc5f8c03bdfd8021c29978eedc6cb6aadf4a10",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 91
+    },
+    {
+        "address": "0x81b5b56fb79c34d5ea930aad99c74496da39d776",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 92
+    },
+    {
+        "address": "0x7f4cad601a37ee3a5ca306def9767cf9285069da",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 93
+    },
+    {
+        "address": "0x4b7110fdb2548e97c091c872cdeee74c618757df",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 94
+    },
+    {
+        "address": "0xab082506eda3f8680d0e49d143d1ec9b664ebae9",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 95
+    },
+    {
+        "address": "0xf3dbfb33f044e466fdf488328dd2e2e15d378441",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 96
+    },
+    {
+        "address": "0x27b5cc8515c9b19bb94b05bc86c2d1386eab8869",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 97
+    },
+    {
+        "address": "0x278144affd8f3920401b0ead42c46cf71baa84a8",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 98
+    },
+    {
+        "address": "0xbdf40619639531b855101be222105bf4da21a154",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 99
+    },
+    {
+        "address": "0x0f3ae6e495b545bf174ddd1ddd48738113dca2d4",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 100
+    },
+    {
+        "address": "0x9060bcbac00321f1cb70617db186d63cde514926",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 101
+    },
+    {
+        "address": "0x9ad82cf8411e352cdd771febe5f60cb4293a1077",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 102
+    },
+    {
+        "address": "0x9f47ac1c54b8ca3ed6322c7bb85f747789b0f761",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 103
+    },
+    {
+        "address": "0x7ca462fef213b221832a0e9c0d0406a2b49c95bc",
+        "amountInEth": 0.4,
+        "amountInTokens": 4266666.666666667,
+        "claimed": false,
+        "index": 104
+    },
+    {
+        "address": "0xd12dc26dbf831f8e6239be85b1e119bb756f6fdc",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 105
+    },
+    {
+        "address": "0x437930387c01cd314dc70386ba3de8a2efe6c645",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 106
+    },
+    {
+        "address": "0x5aaee850c76cd12c23c9f183bc4318616fd6487d",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 107
+    },
+    {
+        "address": "0xb46e33e3529e07a024c0edc0c427418bac0b33c0",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 108
+    },
+    {
+        "address": "0x63dd33d7200c9b8a1a180c469ef730bbec23586a",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 109
+    },
+    {
+        "address": "0x879c405922ffb8251bddf7df06e02a58b10837f3",
+        "amountInEth": 0.25,
+        "amountInTokens": 2666666.6666666665,
+        "claimed": false,
+        "index": 110
+    },
+    {
+        "address": "0xaf66c86d6f3885921c8faf741a40347bcbd62d82",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 111
+    },
+    {
+        "address": "0xc6263c5d53f1819c15af76ab12f00888a965c4a8",
+        "amountInEth": 0.19,
+        "amountInTokens": 2026666.6666666667,
+        "claimed": false,
+        "index": 112
+    },
+    {
+        "address": "0xf315df8a650148196332add5f93512a9ef8d08ce",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 113
+    },
+    {
+        "address": "0x7b6e1d869e32ade209bef692a11977f20e2c0570",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 114
+    },
+    {
+        "address": "0x8efde58bcc54c25d40f5ef993a68c72cad2617f2",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 115
+    },
+    {
+        "address": "0x348b64c77f1e36a6b6edee7488e1b7312d6ae1d1",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 116
+    },
+    {
+        "address": "0xf8ed2f0b56fa0a5c4ffb06595c8d1baf9f7ac578",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 117
+    },
+    {
+        "address": "0x0fe662d1eeda3543d7d739869165eb746bd94763",
+        "amountInEth": 0.4,
+        "amountInTokens": 4266666.666666667,
+        "claimed": false,
+        "index": 118
+    },
+    {
+        "address": "0x396aaa7edadb3102b7e81c7a67f4910287351e19",
+        "amountInEth": 1,
+        "amountInTokens": 10666666.666666666,
+        "claimed": false,
+        "index": 119
+    },
+    {
+        "address": "0xc9de1ecec01e5bad9b03ae3b272fa3ca5447150d",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 120
+    },
+    {
+        "address": "0x2ef1b2567aa33e1ba07f4fbd1a297223df28bafa",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 121
+    },
+    {
+        "address": "0x40e276e6b1f1ac6a8c0aefb5e59c087a95930b23",
+        "amountInEth": 0.4,
+        "amountInTokens": 4266666.666666667,
+        "claimed": false,
+        "index": 122
+    },
+    {
+        "address": "0xf703a4aded9797587e795ee12862dc3bab7f8146",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 123
+    },
+    {
+        "address": "0xa5308de0fb75b14412b8de5178d72a98d785363a",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 124
+    },
+    {
+        "address": "0x310ffc71133e70a054f4f31d458e832dffdf8e3d",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 125
+    },
+    {
+        "address": "0x318075c20955679ecb019ff3411c11630d40f2ed",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 126
+    },
+    {
+        "address": "0x85c0f83dfbdb9c652d22549770a8a7389c3a6866",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 127
+    },
+    {
+        "address": "0x0eecd08e7da9b10d0d3acbae72ae8c2c0a76cd6e",
+        "amountInEth": 1,
+        "amountInTokens": 10666666.666666666,
+        "claimed": false,
+        "index": 128
+    },
+    {
+        "address": "0xad0c0434f4392ffc3b80eb06307a1ff0fcc18ce5",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 129
+    },
+    {
+        "address": "0x1fed5b9d39d357134c6dd3984f25c3b757104a73",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 130
+    },
+    {
+        "address": "0x8cebaa1ee852e96529cd39ee199b65cddb791ffe",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 131
+    },
+    {
+        "address": "0x9979021a8aca5afda69bcb86995a39c8dc8e5eb3",
+        "amountInEth": 0.02,
+        "amountInTokens": 213333.33333333334,
+        "claimed": false,
+        "index": 132
+    },
+    {
+        "address": "0x4e07a8b974b3accc88cb8020400ab5a086a66dc2",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 133
+    },
+    {
+        "address": "0xdda56c837c30f5761fbf43c99c5334dec060c713",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 134
+    },
+    {
+        "address": "0x87d9b41d139189403e008d9c0678f9eeb5754cf8",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 135
+    },
+    {
+        "address": "0xbc997059b2025d2903fad955e3708e71f4ef18f8",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 136
+    },
+    {
+        "address": "0x0f9d4af25c911a49783eeaf4cbb0159f23e352fe",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 137
+    },
+    {
+        "address": "0x117666ca1e398f5facd20ad95812547d6a294188",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 138
+    },
+    {
+        "address": "0x9979021a8aca5afda69bcb86995a39c8dc8e5eb3",
+        "amountInEth": 0.25,
+        "amountInTokens": 2666666.6666666665,
+        "claimed": false,
+        "index": 139
+    },
+    {
+        "address": "0xb135adef5ab58576b7c1709c8d245fc4d4067471",
+        "amountInEth": 0.065,
+        "amountInTokens": 693333.3333333334,
+        "claimed": false,
+        "index": 140
+    },
+    {
+        "address": "0x6dd270ed0a5598e2698a822d4be2c05d12e009d7",
+        "amountInEth": 0.22,
+        "amountInTokens": 2346666.6666666665,
+        "claimed": false,
+        "index": 141
+    },
+    {
+        "address": "0x47eff7234fc07482fee0e6977b0404104294bbae",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 142
+    },
+    {
+        "address": "0xb4383c2ec9c28006d50e1c9954263c242177b932",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 143
+    },
+    {
+        "address": "0x4e455cdbb49f89aa3954e61c94bb97b4e20376e5",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 144
+    },
+    {
+        "address": "0x6631edbd574374c88f4670ee76e8d1eca8405132",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 145
+    },
+    {
+        "address": "0xf2ed7c200d77d6cf7d7f4bc43188354a4a48f43f",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 146
+    },
+    {
+        "address": "0x040c17aff8582c83fbc9b4e52b8e5818bdce8988",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 147
+    },
+    {
+        "address": "0xe6d3509a7d6712e53819e99c06057a3c99ca7f2d",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 148
+    },
+    {
+        "address": "0x9de2e70f8efdd29a4daca29b60f74e2c7c85635c",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 149
+    },
+    {
+        "address": "0x058db471555c012063ecbd0fa271e3a8453aefb1",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 150
+    },
+    {
+        "address": "0x0259726decc375ecfce9412f713b9b4c06aac468",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 151
+    },
+    {
+        "address": "0xdf053bd8ed95d43fab3a6430167c5e6377aada91",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 152
+    },
+    {
+        "address": "0x95974b05b72921b6622731e1edbb43ef398e0fcf",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 153
+    },
+    {
+        "address": "0x990bf479193c091623aa82a077926bae7c6fad87",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 154
+    },
+    {
+        "address": "0x6b55203fcc1571642622e19b34bbfa61ea618623",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 155
+    },
+    {
+        "address": "0xdddbab9d3ca8aefd12d3d64fb00466528c9af2a4",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 156
+    },
+    {
+        "address": "0x988ad13e5cac3b66164864cd01b0cc6ac021bdae",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 157
+    },
+    {
+        "address": "0x0e8f6b5ff7593529809abcdb3e073eadac5be547",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 158
+    },
+    {
+        "address": "0xc1bb4d41cc0635e4349a4237dc42937111090fb7",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 159
+    },
+    {
+        "address": "0x90afc6d704def0b7f69b33c2f39f1d2b4d2f8dc7",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 160
+    },
+    {
+        "address": "0x7c9399ae2522bdc23de3405fdc11b289e13e90f5",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 161
+    },
+    {
+        "address": "0xa66128077ef613ef1e80b8f95a6163467e02fc52",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 162
+    },
+    {
+        "address": "0x7e209335b0081ecbbe70a7af0e51ddeb1f7a75bd",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 163
+    },
+    {
+        "address": "0xf54301ada65493dea1e8bbc5ff994d6e404a7091",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 164
+    },
+    {
+        "address": "0xf434e62bb100f681dffafdaabd1e8eb25053f887",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 165
+    },
+    {
+        "address": "0xef1af40a5535266b47fe1fdd9532379be30a81c5",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 166
+    },
+    {
+        "address": "0x9481d8bc76fb1b7d2f95733a6ec0b40d0cb1fffc",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 167
+    },
+    {
+        "address": "0x498ed95a126b8a90285b57b3993995908ac376f5",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 168
+    },
+    {
+        "address": "0xc8d38815772327259532ec8780550c0abdf0dacb",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 169
+    },
+    {
+        "address": "0xa0c83e1d1d33e03820fbeee0a2a48b6de4830455",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 170
+    },
+    {
+        "address": "0x8675d6b071382c0b4625403fba167d0eb7354222",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 171
+    },
+    {
+        "address": "0xb2a764557b61e609e062157e710f701d3433108f",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 172
+    },
+    {
+        "address": "0xbc997059b2025d2903fad955e3708e71f4ef18f8",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 173
+    },
+    {
+        "address": "0xe2c2c8df19d023b8fd0fa9f8c99c7b0772d60f95",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 174
+    },
+    {
+        "address": "0x6693e9f63b00e0906aea59834be986cb36a24d6a",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 175
+    },
+    {
+        "address": "0xded4d0d37722f83b312cd1020f845514c2e6720d",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 176
+    },
+    {
+        "address": "0x494ed572720dd1befc0180f3402c1d32ab36aa73",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 177
+    },
+    {
+        "address": "0x53fa7673371d5c3f033265671f67434e023512f6",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 178
+    },
+    {
+        "address": "0x5b6f43175e98cc201e83eb7072cf852458888888",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 179
+    },
+    {
+        "address": "0xf8578f9e3ef0e6bb2bc5b2c9bf060e731bd7be05",
+        "amountInEth": 0.18,
+        "amountInTokens": 1919999.9999999998,
+        "claimed": false,
+        "index": 180
+    },
+    {
+        "address": "0x3cbee8e831e02f7f4c86a411c5be32b0ca55a418",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 181
+    },
+    {
+        "address": "0x76815b9f470902e5785862eb9c37c3402fbffbd1",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 182
+    },
+    {
+        "address": "0x821d704d290cb275e2a79fa9664408324200aae4",
+        "amountInEth": 1.5,
+        "amountInTokens": 16000000,
+        "claimed": false,
+        "index": 183
+    },
+    {
+        "address": "0x9cd9aefbd6d423f69f5c9caf2fa9972381012b09",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 184
+    },
+    {
+        "address": "0x0063d043061a684bac183847f1ee70da7c7f5587",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 185
+    },
+    {
+        "address": "0xee2953171fb5b4dc46b3f126997031ce88888888",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 186
+    },
+    {
+        "address": "0x03c6547a6935ec26dc9c9440bbe758afb2e06797",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 187
+    },
+    {
+        "address": "0xf5542151351c97b398a9bb8116a20997c829b534",
+        "amountInEth": 0.05,
+        "amountInTokens": 533333.3333333334,
+        "claimed": false,
+        "index": 188
+    },
+    {
+        "address": "0x1e4d89536f04721a65786eea269c4d7a5438c1a0",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 189
+    },
+    {
+        "address": "0x1994bce3888fb911f06ffb697011b93a95d9cb29",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 190
+    },
+    {
+        "address": "0x99f1396495cceaffe82c9e22b8a6ceb9c6b9336d",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 191
+    },
+    {
+        "address": "0xa8604f5d7478afd7dcf95f8175fc09d07293a2fe",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 192
+    },
+    {
+        "address": "0x50d4b5b1e68a2ec12fd06cfee146b3554bbf5323",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 193
+    },
+    {
+        "address": "0x5f0e7c0f435c6c280b3d6fd24857c3f38a9aa1d4",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 194
+    },
+    {
+        "address": "0x9875a8c58b7b684614110383b0ad541139d1ca21",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 195
+    },
+    {
+        "address": "0xb54c6c4b1c72b77c660503196cf784101091e692",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 196
+    },
+    {
+        "address": "0xfa3dd495001f60095dc85edbf593a5ff8a3f4f24",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 197
+    },
+    {
+        "address": "0xb1ae7093d81f2f342d3dec6ea0830b6272d67606",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 198
+    },
+    {
+        "address": "0x3905578825d22c774cd38afb6b15df7366bdb260",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 199
+    },
+    {
+        "address": "0x6995edcc99e91d3c9fd944234263985bb9235576",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 200
+    },
+    {
+        "address": "0x2dc97012953e5fc1b721c2884c3b69140653c26e",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 201
+    },
+    {
+        "address": "0xda01cf7a3e5e58683527682487352e5a926d504c",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 202
+    },
+    {
+        "address": "0x2c31702e736c37f52a97eb00e011600fa0f1ea89",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 203
+    },
+    {
+        "address": "0xcacf4f952020efc23019818006708440aeae30f2",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 204
+    },
+    {
+        "address": "0x96834d7fe50992fde54fa01fb8c9e920293758ba",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 205
+    },
+    {
+        "address": "0xe2713ccd62d49eab42a1498d182248ee95de15d5",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 206
+    },
+    {
+        "address": "0x1e4470fda06feb6fa6766ed9a6f5b3c0458ae208",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 207
+    },
+    {
+        "address": "0x06c8c97793529bb56dc73d35c87bf588c5dbe195",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 208
+    },
+    {
+        "address": "0xcc46a1a8268ab599e051e198edf5e87e9d0af480",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 209
+    },
+    {
+        "address": "0xc0c38f4aae9885d2078d787c819af0ec4f8f64d4",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 210
+    },
+    {
+        "address": "0x970ae828aff88890e8c8139358a361529c933500",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 211
+    },
+    {
+        "address": "0x5efdb2fbd74f4d0c0b0125bb7cd9c9b359c9953e",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 212
+    },
+    {
+        "address": "0x24726bb1c7996dbe80dae1e87799034125577144",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 213
+    },
+    {
+        "address": "0x4c8d78a40c45af71c448f35c6ad153d0a7b9651f",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 214
+    },
+    {
+        "address": "0x7f803013bb431c489d51c1d8e967c45fe030c2b9",
+        "amountInEth": 0.11,
+        "amountInTokens": 1173333.3333333333,
+        "claimed": false,
+        "index": 215
+    },
+    {
+        "address": "0x6e24722f1bcf86bb4e2cb4de9954fb89b5308c32",
+        "amountInEth": 0.25,
+        "amountInTokens": 2666666.6666666665,
+        "claimed": false,
+        "index": 216
+    },
+    {
+        "address": "0x472eba8b362d3d4ebbcc0074878aecc7a6cd9dd1",
+        "amountInEth": 0.001,
+        "amountInTokens": 10666.666666666666,
+        "claimed": false,
+        "index": 217
+    },
+    {
+        "address": "0xd8bedaed3e0e61013f4d926996507e8f48487a4a",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 218
+    },
+    {
+        "address": "0xf66005106352c0d51f24227543ddaea1d239b521",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 219
+    },
+    {
+        "address": "0x2360db153c21f313b7b58ed286008404930d55fc",
+        "amountInEth": 0.05,
+        "amountInTokens": 533333.3333333334,
+        "claimed": false,
+        "index": 220
+    },
+    {
+        "address": "0xf4556216ceae3bd1ae3f8523c818add839c4ce1c",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 221
+    },
+    {
+        "address": "0x2c339b8ad2147c2f63cff0f5b6e144810c2b1119",
+        "amountInEth": 0.25,
+        "amountInTokens": 2666666.6666666665,
+        "claimed": false,
+        "index": 222
+    },
+    {
+        "address": "0x9a018cb829e60b950c6d71fdc6a827a83cb74c20",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 223
+    },
+    {
+        "address": "0xf64e2eb081bb3cc04d92f65510a94b793beac597",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 224
+    },
+    {
+        "address": "0xd00b3308268cdda9fe69991103de1647531326e7",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 225
+    },
+    {
+        "address": "0x811f869d0a52dc2b064810457c080fb4311d5297",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 226
+    },
+    {
+        "address": "0x11286a8d9ab6c307ce0681ad66c1b588ad85a03a",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 227
+    },
+    {
+        "address": "0xa1d0546cba8b169377ed24539c9c7a325906ab73",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 228
+    },
+    {
+        "address": "0x33d4f31a695bc424696d19a22fbfa52f613f937e",
+        "amountInEth": 0.11,
+        "amountInTokens": 1173333.3333333333,
+        "claimed": false,
+        "index": 229
+    },
+    {
+        "address": "0xce8115142c4f1a6800efe097b7906c69391a4e0f",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 230
+    },
+    {
+        "address": "0x02faa5fd219740f0b02570dedb80794a6612d1f5",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 231
+    },
+    {
+        "address": "0x1d26438a91069b88c64e0c59c7c44686ece391f9",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 232
+    },
+    {
+        "address": "0x9387a7ff8d4e860b510f4fda6ac583a191c09ae2",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 233
+    },
+    {
+        "address": "0x15177a6e451334f9f2d1e69c4617cf464d6cfc1e",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 234
+    },
+    {
+        "address": "0x52649c1bcdd9477821b1ef35d064ac55c5afe4fa",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 235
+    },
+    {
+        "address": "0x69fd02c1cf7659d3d095c4ce73b5d5c23886b5f6",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 236
+    },
+    {
+        "address": "0x19de252e5360b644cf360b3ef872a766b713ab60",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 237
+    },
+    {
+        "address": "0xdbaab6f7275c0efcda182d95b2d2db31be1c4725",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 238
+    },
+    {
+        "address": "0x6d26789262201fb2bbf765eee6c26eeeae86bd0e",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 239
+    },
+    {
+        "address": "0xfa65a835b6eecccd91e0c7adcea050639f813210",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 240
+    },
+    {
+        "address": "0x0bdf6635b972fbdd6b727006b08b3c7f8a0ff3d6",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 241
+    },
+    {
+        "address": "0xecee34d2517f57d35fb84feb22d8e748b6f5338b",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 242
+    },
+    {
+        "address": "0x96135d085a17e06678bf1c4bfa0b65e37f5e569a",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 243
+    },
+    {
+        "address": "0x5a9cc695d5415eb61f839a2b72d4a7de969ad07a",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 244
+    },
+    {
+        "address": "0xd6849bde93f2a8086b221820ca14f731ddcfc4b4",
+        "amountInEth": 0.4,
+        "amountInTokens": 4266666.666666667,
+        "claimed": false,
+        "index": 245
+    },
+    {
+        "address": "0x9b55dc4808dfc532310964b11824f79f39bed7cc",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 246
+    },
+    {
+        "address": "0xb23a91638bf4e9ba88acb1bea4f81a569a1fcd4c",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 247
+    },
+    {
+        "address": "0xb4dbcdf23fed983dacd4b296c9ef221f9a2cf55e",
+        "amountInEth": 0.25,
+        "amountInTokens": 2666666.6666666665,
+        "claimed": false,
+        "index": 248
+    },
+    {
+        "address": "0xdde1ab75141c5f16963a47bc0d45c0170f40aa94",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 249
+    },
+    {
+        "address": "0x0713c007172f2968f97532f62f4046a57fee62a0",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 250
+    },
+    {
+        "address": "0x700b06959e9039bdacff58d61e80f1eb990a3d30",
+        "amountInEth": 0.3,
+        "amountInTokens": 3200000,
+        "claimed": false,
+        "index": 251
+    },
+    {
+        "address": "0xc2e2972ade6d34adeebf6c9c0984bcb3a475bd96",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 252
+    },
+    {
+        "address": "0xf4e030452b589ea280e5c037f42eb8171d789e7d",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 253
+    },
+    {
+        "address": "0x4632105acee0f4e11a1c5672da9c839dfd5857c9",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 254
+    },
+    {
+        "address": "0x9747a922e1ee855fe8b3241ce9a0fc04ae28b028",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 255
+    },
+    {
+        "address": "0x7eb5ea7ca064545ce24e9338b9065a5e837a3e43",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 256
+    },
+    {
+        "address": "0xd7ce67ddd927256dfebf39d01790933103f69f2d",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 257
+    },
+    {
+        "address": "0x2c80b5d05aad809ed6815cd3cadf76f0d7205adb",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 258
+    },
+    {
+        "address": "0x0255afcc54f983bc28d32b8ee89d354be40e0dee",
+        "amountInEth": 0.25,
+        "amountInTokens": 2666666.6666666665,
+        "claimed": false,
+        "index": 259
+    },
+    {
+        "address": "0xfe49a06bd5cc104c06a43b30dfa99d421fa3fd40",
+        "amountInEth": 0.15,
+        "amountInTokens": 1600000,
+        "claimed": false,
+        "index": 260
+    },
+    {
+        "address": "0x40ab7aa71578dbf4fdce2f2ccf57d71d491be00c",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 261
+    },
+    {
+        "address": "0x62ac6b1cda68363d865e75303f0708fb575c0967",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 262
+    },
+    {
+        "address": "0x628d0136e5be7275437f6280dd58026741b1e38f",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 263
+    },
+    {
+        "address": "0x53c7f89db15c6251af5ab3fb3bc4771bf8deb4fa",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 264
+    },
+    {
+        "address": "0xbef3b3373feb700d7818b672bca88bfdfc51999c",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 265
+    },
+    {
+        "address": "0xde30677e53c6ce4808426ca8ff375e309e0c4562",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 266
+    },
+    {
+        "address": "0x2e66b20596fa9f0265a6961217c048d02d05db2e",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 267
+    },
+    {
+        "address": "0xa8f91b59d39b4b7db616cb303b991b36505fd29f",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 268
+    },
+    {
+        "address": "0x459cc9170d03debc2c8505c65fb198711d34d98b",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 269
+    },
+    {
+        "address": "0xe506e50c73033dee0b4dea175352a39d355ee663",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 270
+    },
+    {
+        "address": "0xebd4b45e0500c8eef4847b989596a637b8169a63",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 271
+    },
+    {
+        "address": "0x795da8cbc03e90eda03d9b90e3f001b44c449fcf",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 272
+    },
+    {
+        "address": "0xc54c8fe43d69228a326705f0b026e5783d8f63b8",
+        "amountInEth": 0.48,
+        "amountInTokens": 5120000,
+        "claimed": false,
+        "index": 273
+    },
+    {
+        "address": "0xd9e93d8f2353acaf273c0653487a162b827e2388",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 274
+    },
+    {
+        "address": "0xc4594c58323ee3bbc0dd8c6ef5a8ea241e96f3b8",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 275
+    },
+    {
+        "address": "0xe55e30bfa9c7fe052da022b4a71bab28c5c833fa",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 276
+    },
+    {
+        "address": "0x325d976cbbd6b299865202bb5f553b31b90ebf04",
+        "amountInEth": 0.11,
+        "amountInTokens": 1173333.3333333333,
+        "claimed": false,
+        "index": 277
+    },
+    {
+        "address": "0x325d976cbbd6b299865202bb5f553b31b90ebf04",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 278
+    },
+    {
+        "address": "0x5f8d70e297d9dbbcf1462ab70351541777bf8282",
+        "amountInEth": 1,
+        "amountInTokens": 10666666.666666666,
+        "claimed": false,
+        "index": 279
+    },
+    {
+        "address": "0xb4812b8185de8a2dd595ba55aaddb0c9d77140b1",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 280
+    },
+    {
+        "address": "0xfb88a7c38d6d6d4adc36c1711ba52f74c95e3306",
+        "amountInEth": 0.5,
+        "amountInTokens": 5333333.333333333,
+        "claimed": false,
+        "index": 281
+    },
+    {
+        "address": "0x87e725fd5c5f225152a55720ccb8abca97d35507",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 282
+    },
+    {
+        "address": "0x36b086a07108b0d9e7628cb736010391c29f09e1",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 283
+    },
+    {
+        "address": "0x623f4e44b6dd59f9d3137912e0fcc89ebe8f4fb4",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 284
+    },
+    {
+        "address": "0x44512782e617a514c5f07989cfa9432591b9f90e",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 285
+    },
+    {
+        "address": "0x55b03f5df64242155870a990835ba8d3d74a01f8",
+        "amountInEth": 0.125,
+        "amountInTokens": 1333333.3333333333,
+        "claimed": false,
+        "index": 286
+    },
+    {
+        "address": "0x24b71b2a29970cb4a0029f28e0a087676276153a",
+        "amountInEth": 0.2,
+        "amountInTokens": 2133333.3333333335,
+        "claimed": false,
+        "index": 287
+    },
+    {
+        "address": "0x68fc0c91d97272debf9dd5a45649183591e3e7ee",
+        "amountInEth": 0.25,
+        "amountInTokens": 2666666.6666666665,
+        "claimed": false,
+        "index": 288
+    },
+    {
+        "address": "0x75da6c86e25fd369b819b0002c02c6bfd085f92a",
+        "amountInEth": 0.25,
+        "amountInTokens": 2666666.6666666665,
+        "claimed": false,
+        "index": 289
+    },
+    {
+        "address": "0x96b289aa02d0bb8137249fb0c73235fe1364e6b1",
+        "amountInEth": 0.1,
+        "amountInTokens": 1066666.6666666667,
+        "claimed": false,
+        "index": 290
+    },
+    {
+        "address": "0x4b47f4339a73d50ac1cf965b9699a5966a3918e9",
+        "amountInEth": 0.35,
+        "amountInTokens": 3733333.333333333,
+        "claimed": false,
+        "index": 291
+    },
+    {
+        "address": "0x757a66fade9f178e0e3f57d4b063ecd99c458ae4",
+        "amountInEth": 1,
+        "amountInTokens": 10666666.666666666,
+        "claimed": false,
+        "index": 292
+    },
+    {
+        "address": "0xbddef1237ddad1819671708a1e12fe0e4fdd4e1d",
+        "amountInEth": 2,
+        "amountInTokens": 21333333.333333332,
+        "claimed": false,
+        "index": 293
+    }
+]
