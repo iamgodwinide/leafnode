@@ -55,9 +55,6 @@ const Claim = ({ accounts }) => {
 
         const proof = merkleTree.getHexProof(leafNodes[nodeIndex]).map(item => item.replace(/\n/g, ""));
 
-        console.log("Proof----", proof);
-        console.log("Address----", balances[nodeIndex].address);
-        console.log("Amount----", balances[nodeIndex].amount);
 
         if (window.ethereum) {
             const provider = new ethers.providers.Web3Provider(window.ethereum);
