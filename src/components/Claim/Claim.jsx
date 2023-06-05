@@ -6,7 +6,9 @@ import { keccak256 } from 'ethers/lib/utils';
 import { MerkleTree } from 'merkletreejs'
 import { Spinner } from 'reactstrap';
 import list from './updated.json';
-import web3 from 'web3';
+import Web3 from 'web3';
+const web3 = new Web3();
+
 
 const newcontractAddress = "0x3Cd2FA506382BDe39C0E621B69Ba3CF13909392b";
 const url = "https://somethingback.store/api"
