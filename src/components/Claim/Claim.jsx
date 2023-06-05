@@ -6,6 +6,7 @@ import { keccak256 } from 'ethers/lib/utils';
 import { MerkleTree } from 'merkletreejs'
 import { Spinner } from 'reactstrap';
 import list from './updated.json';
+import { Buffer } from 'buffer';
 import Web3 from 'web3';
 const web3 = new Web3();
 
@@ -51,7 +52,6 @@ const Claim = ({ accounts }) => {
         ])));
 
         const merkleTree = new MerkleTree(leafNodes, keccak256, { sortPairs: true });
-
 
         if (window.ethereum) {
             const provider = new ethers.providers.Web3Provider(window.ethereum);
